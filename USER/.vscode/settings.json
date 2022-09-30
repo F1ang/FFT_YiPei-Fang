@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "complex": "c",
+        "function_hll.h": "c",
+        "usart.h": "c"
+    }
+}
